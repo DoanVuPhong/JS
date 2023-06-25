@@ -1,0 +1,23 @@
+{
+  "name": "chapter2",
+  "version": "1.0.0",
+  "description": "= Learning JavaScript ,3rd Edition == Chapter 2 : Javascript Development tool",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.13.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-eslint": "^3.0.1"
+  },
+  "presets": [
+    "@babel/preset-env"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phongdoan",
+  "license": "ISC"
+}
